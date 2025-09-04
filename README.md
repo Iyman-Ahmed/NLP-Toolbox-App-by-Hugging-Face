@@ -35,14 +35,6 @@ This project is ideal for learning and experimenting with Hugging Face pipelines
 
 ---
 
-## Demo
-
-![Demo Screenshot](https://via.placeholder.com/800x400?text=NLP+ToolBox+App+Demo)
-
-*(Replace with your actual screenshot later)*
-
----
-
 ## Tech Stack
 
 - [Streamlit](https://streamlit.io/): For building the interactive web UI  
